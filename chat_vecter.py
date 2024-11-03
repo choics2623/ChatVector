@@ -31,4 +31,4 @@ if __name__ == "__main__":
     
     args = parser.parse_args()
     
-    main(args.chat_path, args.pt_path, args.aligned_path, args.save_path)
+    main(args.chat_path, args.pt_path, args.cpt_path, args.save_path)
