@@ -9,7 +9,7 @@ UPLOAD_PATH="adress"
 python chat_vecter.py \
      --chat_path "$CHAT_PATH" \
      --pt_path "$CPT_PATH" \
-     --aligned_path "$ALIGNED_PATH" \
+     --cpt_path "$CPT_PATH" \
      --save_path "$SAVE_PATH" \
      --upload_path "$UPLOAD_PATH" \
      --lora
